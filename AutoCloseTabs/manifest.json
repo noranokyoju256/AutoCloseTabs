@@ -1,0 +1,16 @@
+{
+  "name": "AutoCloseTabs",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Sample Chrome Extension",
+  "permissions": [
+    "tabs"
+  ],
+  "background":{
+    "scripts":[
+      "background.js"
+    ],
+    "persistent": false
+  }
+}
+  

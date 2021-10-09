@@ -1,0 +1,14 @@
+{
+    "patterns":[
+        "https://www.youtube.com/",
+        "https://twitter.com/"
+    ],
+    "periods":[
+        {
+            "startHours": 18,
+            "startMinutes": 0,
+            "endHours": 21,
+            "endMinutes": 0
+        }
+    ]
+}
